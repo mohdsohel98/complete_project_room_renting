@@ -1,0 +1,1160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Copolur\\RoomRenting\\RoomRenting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7075BF91-54BB-4996-91B4-252950BB2E60}|ControllerLayer\\ControllerLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\controllerlayer\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7075BF91-54BB-4996-91B4-252950BB2E60}|ControllerLayer\\ControllerLayer.csproj|solutionrelative:controllerlayer\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7075BF91-54BB-4996-91B4-252950BB2E60}|ControllerLayer\\ControllerLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\controllerlayer\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7075BF91-54BB-4996-91B4-252950BB2E60}|ControllerLayer\\ControllerLayer.csproj|solutionrelative:controllerlayer\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\busineeslayer\\services\\userloginservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|solutionrelative:busineeslayer\\services\\userloginservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\busineeslayer\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|solutionrelative:busineeslayer\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\persistencelayer\\repository\\userloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|solutionrelative:persistencelayer\\repository\\userloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\persistencelayer\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|solutionrelative:persistencelayer\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\busineeslayer\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|solutionrelative:busineeslayer\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\busineeslayer\\services\\tokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|solutionrelative:busineeslayer\\services\\tokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\busineeslayer\\services\\iloginservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|solutionrelative:busineeslayer\\services\\iloginservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\persistencelayer\\repository\\adminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|solutionrelative:persistencelayer\\repository\\adminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\persistencelayer\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|solutionrelative:persistencelayer\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\persistencelayer\\repository\\iadminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|solutionrelative:persistencelayer\\repository\\iadminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\busineeslayer\\services\\iadminservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|solutionrelative:busineeslayer\\services\\iadminservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\persistencelayer\\models\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|solutionrelative:persistencelayer\\models\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\persistencelayer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|solutionrelative:persistencelayer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\busineeslayer\\dtos\\adminsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|solutionrelative:busineeslayer\\dtos\\adminsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\busineeslayer\\services\\iroombookingservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|solutionrelative:busineeslayer\\services\\iroombookingservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\busineeslayer\\services\\adminservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|solutionrelative:busineeslayer\\services\\adminservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7075BF91-54BB-4996-91B4-252950BB2E60}|ControllerLayer\\ControllerLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\controllerlayer\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7075BF91-54BB-4996-91B4-252950BB2E60}|ControllerLayer\\ControllerLayer.csproj|solutionrelative:controllerlayer\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7075BF91-54BB-4996-91B4-252950BB2E60}|ControllerLayer\\ControllerLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\controllerlayer\\controllers\\roombookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7075BF91-54BB-4996-91B4-252950BB2E60}|ControllerLayer\\ControllerLayer.csproj|solutionrelative:controllerlayer\\controllers\\roombookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\persistencelayer\\repository\\roombookingrepsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|solutionrelative:persistencelayer\\repository\\roombookingrepsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\busineeslayer\\dtos\\roombookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|solutionrelative:busineeslayer\\dtos\\roombookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\busineeslayer\\dtos\\currentuserdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|solutionrelative:busineeslayer\\dtos\\currentuserdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\busineeslayer\\services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|solutionrelative:busineeslayer\\services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\persistencelayer\\repository\\iroombookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|solutionrelative:persistencelayer\\repository\\iroombookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\busineeslayer\\services\\roombookingservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|solutionrelative:busineeslayer\\services\\roombookingservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\busineeslayer\\services\\iroompostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|solutionrelative:busineeslayer\\services\\iroompostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\busineeslayer\\services\\roompostservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|solutionrelative:busineeslayer\\services\\roompostservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\persistencelayer\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|solutionrelative:persistencelayer\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\busineeslayer\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|solutionrelative:busineeslayer\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\persistencelayer\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|solutionrelative:persistencelayer\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\persistencelayer\\models\\roompostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|solutionrelative:persistencelayer\\models\\roompostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\persistencelayer\\repository\\iuserloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|solutionrelative:persistencelayer\\repository\\iuserloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\busineeslayer\\busineeslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|solutionrelative:busineeslayer\\busineeslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\busineeslayer\\services\\itokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|solutionrelative:busineeslayer\\services\\itokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7075BF91-54BB-4996-91B4-252950BB2E60}|ControllerLayer\\ControllerLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\controllerlayer\\controllerlayer.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7075BF91-54BB-4996-91B4-252950BB2E60}|ControllerLayer\\ControllerLayer.csproj|solutionrelative:controllerlayer\\controllerlayer.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\persistencelayer\\persistencelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|solutionrelative:persistencelayer\\persistencelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\busineeslayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|solutionrelative:busineeslayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\busineeslayer\\helper\\jwttokengenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B15152B-4244-4248-8246-5EC454BF5618}|BusineesLayer\\BusineesLayer.csproj|solutionrelative:busineeslayer\\helper\\jwttokengenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Migrations\\20250609050700_BookingtableCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PersistenceLayer\\Migrations\\20250609050700_BookingtableCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\models\\roompostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\models\\roompostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\repository\\userloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\repository\\userloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\repository\\roompostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\repository\\roompostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\repository\\iuserloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\repository\\iuserloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\repository\\iroompostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\repository\\iroompostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\dtos\\roompostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\dtos\\roompostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\services\\userloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\services\\userloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\services\\roompostservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\services\\roompostservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\services\\iroompostservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\services\\iroompostservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\services\\iloginservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\services\\iloginservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\services\\iroomservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\services\\iroomservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\services\\roomservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\services\\roomservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\migrations\\20250529125611_updateandsomemoresectioninpostroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\migrations\\20250529125611_updateandsomemoresectioninpostroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\migrations\\20250529120339_updatetoaddroompostingservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\migrations\\20250529120339_updatetoaddroompostingservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|e:\\copolur\\roomrenting\\roomrenting\\roomrenting\\migrations\\20250529113632_toaddroompostingservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B556C4B-AD23-4F8A-B75E-BC180B69ECB5}|RoomRenting\\RoomRenting.csproj|solutionrelative:roomrenting\\migrations\\20250529113632_toaddroompostingservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\persistencelayer\\migrations\\20250622110721_addingadmintablepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|solutionrelative:persistencelayer\\migrations\\20250622110721_addingadmintablepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|e:\\copolur\\roomrenting\\roomrenting\\persistencelayer\\migrations\\20250622110515_addingadmintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B0E8FB-4953-4349-A55B-286B1178075E}|PersistenceLayer\\PersistenceLayer.csproj|solutionrelative:persistencelayer\\migrations\\20250622110515_addingadmintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserLoginServices.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\Services\\UserLoginServices.cs",
+              "RelativeDocumentMoniker": "BusineesLayer\\Services\\UserLoginServices.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\Services\\UserLoginServices.cs",
+              "RelativeToolTip": "BusineesLayer\\Services\\UserLoginServices.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T20:28:51.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "BusineesLayer\\Services\\UserServices.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\Services\\UserServices.cs",
+              "RelativeToolTip": "BusineesLayer\\Services\\UserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T18:40:08.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserLoginRepository.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Repository\\UserLoginRepository.cs",
+              "RelativeDocumentMoniker": "PersistenceLayer\\Repository\\UserLoginRepository.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Repository\\UserLoginRepository.cs",
+              "RelativeToolTip": "PersistenceLayer\\Repository\\UserLoginRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:14:07.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\ControllerLayer\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ControllerLayer\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\ControllerLayer\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ControllerLayer\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:50:31.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\ControllerLayer\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ControllerLayer\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\ControllerLayer\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ControllerLayer\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:49:53.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "PersistenceLayer\\Repository\\UserRepository.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "PersistenceLayer\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:14:24.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserLogindto.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\DTOs\\UserLogindto.cs",
+              "RelativeDocumentMoniker": "BusineesLayer\\DTOs\\UserLogindto.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\DTOs\\UserLogindto.cs",
+              "RelativeToolTip": "BusineesLayer\\DTOs\\UserLogindto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T17:53:06.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenServices.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\Services\\TokenServices.cs",
+              "RelativeDocumentMoniker": "BusineesLayer\\Services\\TokenServices.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\Services\\TokenServices.cs",
+              "RelativeToolTip": "BusineesLayer\\Services\\TokenServices.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T11:29:10.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ILoginServices.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\Services\\ILoginServices.cs",
+              "RelativeDocumentMoniker": "BusineesLayer\\Services\\ILoginServices.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\Services\\ILoginServices.cs",
+              "RelativeToolTip": "BusineesLayer\\Services\\ILoginServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T20:27:38.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PersistenceLayer\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PersistenceLayer\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T11:03:07.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminRepo.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Repository\\AdminRepo.cs",
+              "RelativeDocumentMoniker": "PersistenceLayer\\Repository\\AdminRepo.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Repository\\AdminRepo.cs",
+              "RelativeToolTip": "PersistenceLayer\\Repository\\AdminRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T11:18:23.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAdminRepo.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Repository\\IAdminRepo.cs",
+              "RelativeDocumentMoniker": "PersistenceLayer\\Repository\\IAdminRepo.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Repository\\IAdminRepo.cs",
+              "RelativeToolTip": "PersistenceLayer\\Repository\\IAdminRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T11:16:29.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20250622110721_AddingAdminTablepass.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Migrations\\20250622110721_AddingAdminTablepass.cs",
+              "RelativeDocumentMoniker": "PersistenceLayer\\Migrations\\20250622110721_AddingAdminTablepass.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Migrations\\20250622110721_AddingAdminTablepass.cs",
+              "RelativeToolTip": "PersistenceLayer\\Migrations\\20250622110721_AddingAdminTablepass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T11:07:21.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminModel.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Models\\AdminModel.cs",
+              "RelativeDocumentMoniker": "PersistenceLayer\\Models\\AdminModel.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Models\\AdminModel.cs",
+              "RelativeToolTip": "PersistenceLayer\\Models\\AdminModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T11:00:21.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20250622110515_AddingAdminTable.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Migrations\\20250622110515_AddingAdminTable.cs",
+              "RelativeDocumentMoniker": "PersistenceLayer\\Migrations\\20250622110515_AddingAdminTable.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Migrations\\20250622110515_AddingAdminTable.cs",
+              "RelativeToolTip": "PersistenceLayer\\Migrations\\20250622110515_AddingAdminTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T11:05:16.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRoomBookingServices.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\Services\\IRoomBookingServices.cs",
+              "RelativeDocumentMoniker": "BusineesLayer\\Services\\IRoomBookingServices.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\Services\\IRoomBookingServices.cs",
+              "RelativeToolTip": "BusineesLayer\\Services\\IRoomBookingServices.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T17:10:42.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAdminServices.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\Services\\IAdminServices.cs",
+              "RelativeDocumentMoniker": "BusineesLayer\\Services\\IAdminServices.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\Services\\IAdminServices.cs",
+              "RelativeToolTip": "BusineesLayer\\Services\\IAdminServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T10:42:17.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\ControllerLayer\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ControllerLayer\\Controllers\\AdminController.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\ControllerLayer\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ControllerLayer\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T10:30:45.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminSummaryDto.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\DTOs\\AdminSummaryDto.cs",
+              "RelativeDocumentMoniker": "BusineesLayer\\DTOs\\AdminSummaryDto.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\DTOs\\AdminSummaryDto.cs",
+              "RelativeToolTip": "BusineesLayer\\DTOs\\AdminSummaryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T10:31:37.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PersistenceLayer\\Models\\User.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Models\\User.cs",
+              "RelativeToolTip": "PersistenceLayer\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:42:56.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminServices.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\Services\\AdminServices.cs",
+              "RelativeDocumentMoniker": "BusineesLayer\\Services\\AdminServices.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\Services\\AdminServices.cs",
+              "RelativeToolTip": "BusineesLayer\\Services\\AdminServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T10:31:59.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RoomBookingDto.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\DTOs\\RoomBookingDto.cs",
+              "RelativeDocumentMoniker": "BusineesLayer\\DTOs\\RoomBookingDto.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\DTOs\\RoomBookingDto.cs",
+              "RelativeToolTip": "BusineesLayer\\DTOs\\RoomBookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T21:03:13.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CurrentUserDetails.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\DTOs\\CurrentUserDetails.cs",
+              "RelativeDocumentMoniker": "BusineesLayer\\DTOs\\CurrentUserDetails.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\DTOs\\CurrentUserDetails.cs",
+              "RelativeToolTip": "BusineesLayer\\DTOs\\CurrentUserDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T18:40:34.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\Services\\IUserServices.cs",
+              "RelativeDocumentMoniker": "BusineesLayer\\Services\\IUserServices.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\Services\\IUserServices.cs",
+              "RelativeToolTip": "BusineesLayer\\Services\\IUserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T19:04:13.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoomBookingController.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\ControllerLayer\\Controllers\\RoomBookingController.cs",
+              "RelativeDocumentMoniker": "ControllerLayer\\Controllers\\RoomBookingController.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\ControllerLayer\\Controllers\\RoomBookingController.cs",
+              "RelativeToolTip": "ControllerLayer\\Controllers\\RoomBookingController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:53:38.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RoomBookingRepsitory.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Repository\\RoomBookingRepsitory.cs",
+              "RelativeDocumentMoniker": "PersistenceLayer\\Repository\\RoomBookingRepsitory.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Repository\\RoomBookingRepsitory.cs",
+              "RelativeToolTip": "PersistenceLayer\\Repository\\RoomBookingRepsitory.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T19:00:11.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IRoomBookingRepository.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Repository\\IRoomBookingRepository.cs",
+              "RelativeDocumentMoniker": "PersistenceLayer\\Repository\\IRoomBookingRepository.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Repository\\IRoomBookingRepository.cs",
+              "RelativeToolTip": "PersistenceLayer\\Repository\\IRoomBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:55:11.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RoomBookingServices.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\Services\\RoomBookingServices.cs",
+              "RelativeDocumentMoniker": "BusineesLayer\\Services\\RoomBookingServices.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\Services\\RoomBookingServices.cs",
+              "RelativeToolTip": "BusineesLayer\\Services\\RoomBookingServices.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwDgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T21:00:34.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IRoomPostService.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\Services\\IRoomPostService.cs",
+              "RelativeDocumentMoniker": "BusineesLayer\\Services\\IRoomPostService.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\Services\\IRoomPostService.cs",
+              "RelativeToolTip": "BusineesLayer\\Services\\IRoomPostService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwAsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T19:09:18.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RoomPostServices.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\Services\\RoomPostServices.cs",
+              "RelativeDocumentMoniker": "BusineesLayer\\Services\\RoomPostServices.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\Services\\RoomPostServices.cs",
+              "RelativeToolTip": "BusineesLayer\\Services\\RoomPostServices.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAADwv1EAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T19:08:45.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "PersistenceLayer\\Repository\\IUserRepository.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "PersistenceLayer\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:13:16.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\DTOs\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "BusineesLayer\\DTOs\\UserRegisterDto.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\DTOs\\UserRegisterDto.cs",
+              "RelativeToolTip": "BusineesLayer\\DTOs\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T17:52:07.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RoomPostModel.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Models\\RoomPostModel.cs",
+              "RelativeDocumentMoniker": "PersistenceLayer\\Models\\RoomPostModel.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Models\\RoomPostModel.cs",
+              "RelativeToolTip": "PersistenceLayer\\Models\\RoomPostModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:42:33.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Room.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "PersistenceLayer\\Models\\Room.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Models\\Room.cs",
+              "RelativeToolTip": "PersistenceLayer\\Models\\Room.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:41:57.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IUserLoginRepository.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Repository\\IUserLoginRepository.cs",
+              "RelativeDocumentMoniker": "PersistenceLayer\\Repository\\IUserLoginRepository.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Repository\\IUserLoginRepository.cs",
+              "RelativeToolTip": "PersistenceLayer\\Repository\\IUserLoginRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:11:39.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BusineesLayer.csproj",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\BusineesLayer.csproj",
+              "RelativeDocumentMoniker": "BusineesLayer\\BusineesLayer.csproj",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\BusineesLayer.csproj",
+              "RelativeToolTip": "BusineesLayer\\BusineesLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T20:26:02.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ITokenServices.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\Services\\ITokenServices.cs",
+              "RelativeDocumentMoniker": "BusineesLayer\\Services\\ITokenServices.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\Services\\ITokenServices.cs",
+              "RelativeToolTip": "BusineesLayer\\Services\\ITokenServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:57:10.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ControllerLayer.http",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\ControllerLayer\\ControllerLayer.http",
+              "RelativeDocumentMoniker": "ControllerLayer\\ControllerLayer.http",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\ControllerLayer\\ControllerLayer.http",
+              "RelativeToolTip": "ControllerLayer\\ControllerLayer.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-12T19:06:12.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PersistenceLayer.csproj",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\PersistenceLayer.csproj",
+              "RelativeDocumentMoniker": "PersistenceLayer\\PersistenceLayer.csproj",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\PersistenceLayer.csproj",
+              "RelativeToolTip": "PersistenceLayer\\PersistenceLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-06T18:09:59.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\Program.cs",
+              "RelativeDocumentMoniker": "BusineesLayer\\Program.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\Program.cs",
+              "RelativeToolTip": "BusineesLayer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T20:37:19.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "JwtTokenGenerators.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\Helper\\JwtTokenGenerators.cs",
+              "RelativeDocumentMoniker": "BusineesLayer\\Helper\\JwtTokenGenerators.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\BusineesLayer\\Helper\\JwtTokenGenerators.cs",
+              "RelativeToolTip": "BusineesLayer\\Helper\\JwtTokenGenerators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T11:47:41.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250609050700_BookingtableCreated.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Migrations\\20250609050700_BookingtableCreated.cs",
+              "RelativeDocumentMoniker": "PersistenceLayer\\Migrations\\20250609050700_BookingtableCreated.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\PersistenceLayer\\Migrations\\20250609050700_BookingtableCreated.cs",
+              "RelativeToolTip": "PersistenceLayer\\Migrations\\20250609050700_BookingtableCreated.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T05:07:00.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RoomRenting\\Models\\User.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Models\\User.cs",
+              "RelativeToolTip": "RoomRenting\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T09:22:02.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Program.cs",
+              "RelativeDocumentMoniker": "RoomRenting\\Program.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Program.cs",
+              "RelativeToolTip": "RoomRenting\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:50:19.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\appsettings.json",
+              "RelativeDocumentMoniker": "RoomRenting\\appsettings.json",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\appsettings.json",
+              "RelativeToolTip": "RoomRenting\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T12:07:38.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "RoomRenting\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Controllers\\UserController.cs",
+              "RelativeToolTip": "RoomRenting\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAjwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:03:16.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "RoomRenting\\Controllers\\RoomController.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "RoomRenting\\Controllers\\RoomController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIBZwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:18:34.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "RoomRenting\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "RoomRenting\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:26:31.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RoomRenting\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RoomRenting\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:39:35.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Room.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "RoomRenting\\Models\\Room.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Models\\Room.cs",
+              "RelativeToolTip": "RoomRenting\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:11:16.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RoomPostModel.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Models\\RoomPostModel.cs",
+              "RelativeDocumentMoniker": "RoomRenting\\Models\\RoomPostModel.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Models\\RoomPostModel.cs",
+              "RelativeToolTip": "RoomRenting\\Models\\RoomPostModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:44:38.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "RoomRenting\\Repository\\UserRepository.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "RoomRenting\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:35:15.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UserLoginRepository.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Repository\\UserLoginRepository.cs",
+              "RelativeDocumentMoniker": "RoomRenting\\Repository\\UserLoginRepository.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Repository\\UserLoginRepository.cs",
+              "RelativeToolTip": "RoomRenting\\Repository\\UserLoginRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:41:12.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RoomPostRepository.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Repository\\RoomPostRepository.cs",
+              "RelativeDocumentMoniker": "RoomRenting\\Repository\\RoomPostRepository.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Repository\\RoomPostRepository.cs",
+              "RelativeToolTip": "RoomRenting\\Repository\\RoomPostRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:51:28.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "RoomRenting\\Repository\\IUserRepository.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "RoomRenting\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T08:39:49.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IUserLoginRepository.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Repository\\IUserLoginRepository.cs",
+              "RelativeDocumentMoniker": "RoomRenting\\Repository\\IUserLoginRepository.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Repository\\IUserLoginRepository.cs",
+              "RelativeToolTip": "RoomRenting\\Repository\\IUserLoginRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:42:53.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IRoomPostRepository.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Repository\\IRoomPostRepository.cs",
+              "RelativeDocumentMoniker": "RoomRenting\\Repository\\IRoomPostRepository.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Repository\\IRoomPostRepository.cs",
+              "RelativeToolTip": "RoomRenting\\Repository\\IRoomPostRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:48:39.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\DTOs\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "RoomRenting\\DTOs\\UserRegisterDto.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\DTOs\\UserRegisterDto.cs",
+              "RelativeToolTip": "RoomRenting\\DTOs\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T09:22:43.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UserLogindto.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\DTOs\\UserLogindto.cs",
+              "RelativeDocumentMoniker": "RoomRenting\\DTOs\\UserLogindto.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\DTOs\\UserLogindto.cs",
+              "RelativeToolTip": "RoomRenting\\DTOs\\UserLogindto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:34:00.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RoomPostDto.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\DTOs\\RoomPostDto.cs",
+              "RelativeDocumentMoniker": "RoomRenting\\DTOs\\RoomPostDto.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\DTOs\\RoomPostDto.cs",
+              "RelativeToolTip": "RoomRenting\\DTOs\\RoomPostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:47:51.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "RoomRenting\\Services\\UserServices.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Services\\UserServices.cs",
+              "RelativeToolTip": "RoomRenting\\Services\\UserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:12:19.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "UserLoginService.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Services\\UserLoginService.cs",
+              "RelativeDocumentMoniker": "RoomRenting\\Services\\UserLoginService.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Services\\UserLoginService.cs",
+              "RelativeToolTip": "RoomRenting\\Services\\UserLoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:21:24.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "RoomPostServices.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Services\\RoomPostServices.cs",
+              "RelativeDocumentMoniker": "RoomRenting\\Services\\RoomPostServices.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Services\\RoomPostServices.cs",
+              "RelativeToolTip": "RoomRenting\\Services\\RoomPostServices.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAIBZwIcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:25:13.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IRoomPostServices.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Services\\IRoomPostServices.cs",
+              "RelativeDocumentMoniker": "RoomRenting\\Services\\IRoomPostServices.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Services\\IRoomPostServices.cs",
+              "RelativeToolTip": "RoomRenting\\Services\\IRoomPostServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:21:52.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Services\\IUserServices.cs",
+              "RelativeDocumentMoniker": "RoomRenting\\Services\\IUserServices.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Services\\IUserServices.cs",
+              "RelativeToolTip": "RoomRenting\\Services\\IUserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:12:44.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ILoginServices.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Services\\ILoginServices.cs",
+              "RelativeDocumentMoniker": "RoomRenting\\Services\\ILoginServices.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Services\\ILoginServices.cs",
+              "RelativeToolTip": "RoomRenting\\Services\\ILoginServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:02:40.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IRoomServices.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Services\\IRoomServices.cs",
+              "RelativeDocumentMoniker": "RoomRenting\\Services\\IRoomServices.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Services\\IRoomServices.cs",
+              "RelativeToolTip": "RoomRenting\\Services\\IRoomServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:23:54.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "RoomServices.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Services\\RoomServices.cs",
+              "RelativeDocumentMoniker": "RoomRenting\\Services\\RoomServices.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Services\\RoomServices.cs",
+              "RelativeToolTip": "RoomRenting\\Services\\RoomServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:13:20.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20250529125611_UpdateAndSomeMoreSectionInPOstRoom.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Migrations\\20250529125611_UpdateAndSomeMoreSectionInPOstRoom.cs",
+              "RelativeDocumentMoniker": "RoomRenting\\Migrations\\20250529125611_UpdateAndSomeMoreSectionInPOstRoom.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Migrations\\20250529125611_UpdateAndSomeMoreSectionInPOstRoom.cs",
+              "RelativeToolTip": "RoomRenting\\Migrations\\20250529125611_UpdateAndSomeMoreSectionInPOstRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:56:12.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20250529120339_UpdateToAddRoomPostingServices.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Migrations\\20250529120339_UpdateToAddRoomPostingServices.cs",
+              "RelativeDocumentMoniker": "RoomRenting\\Migrations\\20250529120339_UpdateToAddRoomPostingServices.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Migrations\\20250529120339_UpdateToAddRoomPostingServices.cs",
+              "RelativeToolTip": "RoomRenting\\Migrations\\20250529120339_UpdateToAddRoomPostingServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:03:39.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20250529113632_ToAddRoomPostingServices.cs",
+              "DocumentMoniker": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Migrations\\20250529113632_ToAddRoomPostingServices.cs",
+              "RelativeDocumentMoniker": "RoomRenting\\Migrations\\20250529113632_ToAddRoomPostingServices.cs",
+              "ToolTip": "E:\\Copolur\\RoomRenting\\RoomRenting\\RoomRenting\\Migrations\\20250529113632_ToAddRoomPostingServices.cs",
+              "RelativeToolTip": "RoomRenting\\Migrations\\20250529113632_ToAddRoomPostingServices.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:36:32.568Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

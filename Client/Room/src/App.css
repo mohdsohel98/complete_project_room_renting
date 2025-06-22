@@ -1,0 +1,10 @@
+
+@import "tailwindcss";
+
+.button {
+  background-color: #15b36a;
+  transition: background-color 0.3s;
+}
+.button:hover {
+  background-color: #128f54;
+}
